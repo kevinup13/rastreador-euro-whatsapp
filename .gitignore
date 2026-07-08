@@ -1,0 +1,10 @@
+# Esconder as chaves de segurança e tokens
+.env
+
+# Esconder a pasta do Ambiente Virtual (nunca se envia a venv!)
+venv/
+
+# Arquivos temporários ou de configuração do VS Code (opcional, mas recomendado)
+.vscode/
+__pycache__/
+*.pyc
